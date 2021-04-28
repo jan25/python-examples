@@ -1,0 +1,16 @@
+[
+    {
+        "url": "https://httpbin.org/get",
+        "method": "GET",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    },
+    {
+        "url": "https://jsonplaceholder.typicode.com/posts",
+        "method": "POST",
+        "payload": {
+            "title": "foo"
+        }
+    }
+]
